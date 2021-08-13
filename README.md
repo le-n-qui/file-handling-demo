@@ -1,2 +1,2 @@
-# file-handling-demo
-Here is a teaching module about Python and its file handling capabilities in an interactive Colab notebook.
+# File Handling Demo
+This is a teaching module about Python's file handling capabilities using the interactive Colab notebook to help students follow along. This project was inspired by the 2021 Bioinformatics Summer Course hosted by the UC Santa Cruz Genomics Institute, and taught by Serafina Nieves and Brandon Saint-John whose support and guidance helped make this possible. I also like to thank Dr. Zia Isola and Raiida K. Thompson because, without them, I would not have known of this helpful course which did much to enlighten me about bioinformatics and genomics in general.
